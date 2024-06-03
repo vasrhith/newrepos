@@ -12,3 +12,4 @@ function generateFibonacci(n) {
     }
 }
 generateFibonacci(10);
+//new info added
